@@ -1,15 +1,23 @@
 {
   "name": "dsa-recursion",
   "version": "1.0.0",
-  "description": "",
   "main": "recursion.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "brice nelson",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brice-USF-Bootcamp-Projects/34.3-Recursion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brice-USF-Bootcamp-Projects/34.3-Recursion/issues"
+  },
+  "homepage": "https://github.com/Brice-USF-Bootcamp-Projects/34.3-Recursion#readme",
+  "description": ""
 }
